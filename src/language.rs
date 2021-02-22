@@ -17,6 +17,7 @@ impl FromLanguage for NluUtilsLanguage {
             Language::KO => NluUtilsLanguage::KO,
             Language::PT_PT => NluUtilsLanguage::PT_PT,
             Language::PT_BR => NluUtilsLanguage::PT_BR,
+            Language::RU => NluUtilsLanguage::RU,
         }
     }
 }
